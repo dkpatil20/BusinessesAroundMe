@@ -1,0 +1,131 @@
+{
+  "id": "PsY5DMHxa5iNX_nX0T-qPA",
+  "alias": "kokkari-estiatorio-san-francisco",
+  "name": "Kokkari Estiatorio",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FTQfPJubJEtYeyHqwAsVKw/o.jpg",
+  "is_claimed": true,
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/kokkari-estiatorio-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+  "phone": "+14159810983",
+  "display_phone": "(415) 981-0983",
+  "review_count": 5012,
+  "categories": [
+    {
+      "alias": "greek",
+      "title": "Greek"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    }
+  ],
+  "rating": 4.5,
+  "location": {
+    "address1": "200 Jackson St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+      "200 Jackson St",
+      "San Francisco, CA 94111"
+    ],
+    "cross_streets": "Front St & Battery St"
+  },
+  "coordinates": {
+    "latitude": 37.796996,
+    "longitude": -122.399661
+  },
+  "photos": [
+    "https://s3-media2.fl.yelpcdn.com/bphoto/FTQfPJubJEtYeyHqwAsVKw/o.jpg",
+    "https://s3-media2.fl.yelpcdn.com/bphoto/9lneWjyZG5BnQYZP9JNnlw/o.jpg",
+    "https://s3-media1.fl.yelpcdn.com/bphoto/qYjEM7ZmOtGFDY1uwFY4ZQ/o.jpg"
+  ],
+  "price": "$$$",
+  "hours": [
+    {
+      "open": [
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "1430",
+          "day": 0
+        },
+        {
+          "is_overnight": false,
+          "start": "1700",
+          "end": "2200",
+          "day": 0
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "1430",
+          "day": 1
+        },
+        {
+          "is_overnight": false,
+          "start": "1700",
+          "end": "2200",
+          "day": 1
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "1430",
+          "day": 2
+        },
+        {
+          "is_overnight": false,
+          "start": "1700",
+          "end": "2200",
+          "day": 2
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "1430",
+          "day": 3
+        },
+        {
+          "is_overnight": false,
+          "start": "1700",
+          "end": "2200",
+          "day": 3
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "1430",
+          "day": 4
+        },
+        {
+          "is_overnight": false,
+          "start": "1700",
+          "end": "2300",
+          "day": 4
+        },
+        {
+          "is_overnight": false,
+          "start": "1700",
+          "end": "2300",
+          "day": 5
+        },
+        {
+          "is_overnight": false,
+          "start": "1700",
+          "end": "2200",
+          "day": 6
+        }
+      ],
+      "hours_type": "REGULAR",
+      "is_open_now": false
+    }
+  ],
+  "transactions": [
+    "delivery",
+    "pickup"
+  ]
+}

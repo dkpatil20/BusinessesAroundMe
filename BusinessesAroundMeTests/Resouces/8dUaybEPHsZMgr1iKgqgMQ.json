@@ -1,0 +1,105 @@
+{
+  "id": "8dUaybEPHsZMgr1iKgqgMQ",
+  "alias": "sotto-mare-san-francisco-4",
+  "name": "Sotto Mare",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o3hIcGLMxV_5ynxEjGWGrw/o.jpg",
+  "is_claimed": true,
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/sotto-mare-san-francisco-4?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+  "phone": "+14153983181",
+  "display_phone": "(415) 398-3181",
+  "review_count": 4752,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "rating": 4.5,
+  "location": {
+    "address1": "552 Green St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+      "552 Green St",
+      "San Francisco, CA 94133"
+    ],
+    "cross_streets": "Columbus Ave & Stockton St"
+  },
+  "coordinates": {
+    "latitude": 37.79979,
+    "longitude": -122.40834
+  },
+  "photos": [
+    "https://s3-media3.fl.yelpcdn.com/bphoto/o3hIcGLMxV_5ynxEjGWGrw/o.jpg",
+    "https://s3-media4.fl.yelpcdn.com/bphoto/qsKW1g6duc76aAatbv7OJA/o.jpg",
+    "https://s3-media4.fl.yelpcdn.com/bphoto/u_kkGKarL_H5SX0JB1pQ0w/o.jpg"
+  ],
+  "price": "$$",
+  "hours": [
+    {
+      "open": [
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "2100",
+          "day": 0
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "2100",
+          "day": 1
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "2100",
+          "day": 2
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "2100",
+          "day": 3
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "2200",
+          "day": 4
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "2200",
+          "day": 5
+        },
+        {
+          "is_overnight": false,
+          "start": "1130",
+          "end": "2100",
+          "day": 6
+        }
+      ],
+      "hours_type": "REGULAR",
+      "is_open_now": true
+    }
+  ],
+  "transactions": [
+    "pickup",
+    "delivery"
+  ]
+}

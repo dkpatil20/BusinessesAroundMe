@@ -1,0 +1,926 @@
+{
+  "businesses": [
+    {
+      "id": "8dUaybEPHsZMgr1iKgqgMQ",
+      "alias": "sotto-mare-san-francisco-4",
+      "name": "Sotto Mare",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o3hIcGLMxV_5ynxEjGWGrw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sotto-mare-san-francisco-4?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 4751,
+      "categories": [
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.79979,
+        "longitude": -122.40834
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "552 Green St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94133",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "552 Green St",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "phone": "+14153983181",
+      "display_phone": "(415) 398-3181",
+      "distance": 1604.5000023806194
+    },
+    {
+      "id": "yn5gA62ekL-TzKBBI_rq-A",
+      "alias": "boba-guys-san-francisco-6",
+      "name": "Boba Guys",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DJ8l44kLJ7U1n6EFfJEHlQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/boba-guys-san-francisco-6?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 2099,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.79,
+        "longitude": -122.40729
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "429 Stockton St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94108",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "429 Stockton St",
+          "San Francisco, CA 94108"
+        ]
+      },
+      "phone": "+14159672622",
+      "display_phone": "(415) 967-2622",
+      "distance": 732.0167617794144
+    },
+    {
+      "id": "Qbr2JG96K6d31NqqAUxf9g",
+      "alias": "la-mar-cebichería-peruana-san-francisco-4",
+      "name": "La Mar Cebichería Peruana",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hI4L8cMY1JY_UKq7ZYBpTw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/la-mar-cebicher%C3%ADa-peruana-san-francisco-4?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 4289,
+      "categories": [
+        {
+          "alias": "latin",
+          "title": "Latin American"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "peruvian",
+          "title": "Peruvian"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.7974182368553,
+        "longitude": -122.395129846558
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "Pier 1 1/2 The Embarcadero",
+        "address2": "Ste 100",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94111",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "Pier 1 1/2 The Embarcadero",
+          "Ste 100",
+          "San Francisco, CA 94111"
+        ]
+      },
+      "phone": "+14153978880",
+      "display_phone": "(415) 397-8880",
+      "distance": 1246.4440026698737
+    },
+    {
+      "id": "0mNzmmh1mrdh5Cpg2QUBiw",
+      "alias": "lapisara-eatery-san-francisco-2",
+      "name": "Lapisara Eatery",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KPAzk-Q-UM5YOdyVyE760A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/lapisara-eatery-san-francisco-2?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 1269,
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "thai",
+          "title": "Thai"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.7878344,
+        "longitude": -122.4131853
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "698 Post St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "698 Post St",
+          "San Francisco, CA 94109"
+        ]
+      },
+      "phone": "+14156553556",
+      "display_phone": "(415) 655-3556",
+      "distance": 1165.6062721970407
+    },
+    {
+      "id": "ka1_lat2boQwLMsOCiwGiA",
+      "alias": "r-and-g-lounge-san-francisco",
+      "name": "R&G Lounge",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8b96FLWu65B9Zztwn_QpgQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/r-and-g-lounge-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 4821,
+      "categories": [
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "cantonese",
+          "title": "Cantonese"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 37.7941240989441,
+        "longitude": -122.404937406342
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "631 Kearny St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94108",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "631 Kearny St",
+          "San Francisco, CA 94108"
+        ]
+      },
+      "phone": "+14159827877",
+      "display_phone": "(415) 982-7877",
+      "distance": 915.892514520641
+    },
+    {
+      "id": "U0GqpXzcIDlad7vQHbB63Q",
+      "alias": "kusakabe-san-francisco",
+      "name": "KUSAKABE",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iXZ1Ts45fAl83jO9XhOELQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kusakabe-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 1016,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.7957017702111,
+        "longitude": -122.402884835582
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$$$",
+      "location": {
+        "address1": "584 Washington St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94111",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "584 Washington St",
+          "San Francisco, CA 94111"
+        ]
+      },
+      "phone": "+14157570155",
+      "display_phone": "(415) 757-0155",
+      "distance": 1013.5631672528275
+    },
+    {
+      "id": "c0WpyZFR3EoEBKcoY2LZ3Q",
+      "alias": "marlowe-san-francisco-2",
+      "name": "Marlowe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oGp6rqqmgyRuzqkFB4qbCA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/marlowe-san-francisco-2?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 2779,
+      "categories": [
+        {
+          "alias": "diners",
+          "title": "Diners"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.77828,
+        "longitude": -122.39686
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "500 Brannan St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94107",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "500 Brannan St",
+          "San Francisco, CA 94107"
+        ]
+      },
+      "phone": "+14157771413",
+      "display_phone": "(415) 777-1413",
+      "distance": 991.946450080266
+    },
+    {
+      "id": "DLpHmXitZxDLdqTwydUSdA",
+      "alias": "la-fusión-san-francisco-2",
+      "name": "La Fusión",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oRfx291jFQc0ZhfLjIOY3w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/la-fusi%C3%B3n-san-francisco-2?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 1196,
+      "categories": [
+        {
+          "alias": "latin",
+          "title": "Latin American"
+        },
+        {
+          "alias": "comfortfood",
+          "title": "Comfort Food"
+        },
+        {
+          "alias": "peruvian",
+          "title": "Peruvian"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.7916357455614,
+        "longitude": -122.403691572642
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "475 Pine St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94104",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "475 Pine St",
+          "San Francisco, CA 94104"
+        ]
+      },
+      "phone": "+14157810894",
+      "display_phone": "(415) 781-0894",
+      "distance": 621.4840493109875
+    },
+    {
+      "id": "PTFxtXS47ZVRCdZIrEWvGw",
+      "alias": "golden-boy-pizza-san-francisco",
+      "name": "Golden Boy Pizza",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SfosPh2iWkVTMC4LLVIL8g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/golden-boy-pizza-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 4130,
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.7997956,
+        "longitude": -122.4080729
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "542 Green St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94133",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "542 Green St",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "phone": "+14159829738",
+      "display_phone": "(415) 982-9738",
+      "distance": 1602.674848600091
+    },
+    {
+      "id": "TRBP1G1l8vZkjgfqdx96Cw",
+      "alias": "pearls-deluxe-burgers-san-francisco-3",
+      "name": "Pearl's Deluxe Burgers",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h4rQM1-57YzJz00M-dVekQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pearls-deluxe-burgers-san-francisco-3?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 2380,
+      "categories": [
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.787823,
+        "longitude": -122.413699
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "708 Post St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "708 Post St",
+          "San Francisco, CA 94109"
+        ]
+      },
+      "phone": "+14154096120",
+      "display_phone": "(415) 409-6120",
+      "distance": 1210.8057939261262
+    },
+    {
+      "id": "aud84H-NpMx3opWPtLX-vg",
+      "alias": "bourbon-and-branch-san-francisco",
+      "name": "Bourbon & Branch",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3bNt1EquRx99QRhsjzf8Ww/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bourbon-and-branch-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 3255,
+      "categories": [
+        {
+          "alias": "speakeasies",
+          "title": "Speakeasies"
+        },
+        {
+          "alias": "libraries",
+          "title": "Libraries"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.78592,
+        "longitude": -122.41336
+      },
+      "transactions": [
+        "restaurant_reservation"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "501 Jones St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "501 Jones St",
+          "San Francisco, CA 94102"
+        ]
+      },
+      "phone": "+14153461735",
+      "display_phone": "(415) 346-1735",
+      "distance": 1162.7734538460777
+    },
+    {
+      "id": "mSMZJj2pFvttWLpcDmgrEA",
+      "alias": "tonys-pizza-napoletana-san-francisco",
+      "name": "Tony's Pizza Napoletana",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DvQZHMo2vHsASJKxCDwoZw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tonys-pizza-napoletana-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 6252,
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.8003315377662,
+        "longitude": -122.409053979377
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1570 Stockton St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94133",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1570 Stockton St",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "phone": "+14158359888",
+      "display_phone": "(415) 835-9888",
+      "distance": 1695.1151500249186
+    },
+    {
+      "id": "ey_UUXdDMUoO77QIF6SGaQ",
+      "alias": "mensho-tokyo-sf-san-francisco",
+      "name": "Mensho Tokyo SF",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4L3t1-0-tI0h4CC_NgLoMA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mensho-tokyo-sf-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 2718,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.78686,
+        "longitude": -122.41439
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "672 Geary St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "672 Geary St",
+          "San Francisco, CA 94102"
+        ]
+      },
+      "phone": "+14158008345",
+      "display_phone": "(415) 800-8345",
+      "distance": 1262.6392898123938
+    },
+    {
+      "id": "f-m7-hyFzkf0HSEeQ2s-9A",
+      "alias": "fog-harbor-fish-house-san-francisco-2",
+      "name": "Fog Harbor Fish House",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/by8Hh63BLPv_HUqRUdsp_w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/fog-harbor-fish-house-san-francisco-2?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 8798,
+      "categories": [
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "wine_bars",
+          "title": "Wine Bars"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.80898821475503,
+        "longitude": -122.41029651587517
+      },
+      "transactions": [
+        "restaurant_reservation"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "39 Pier",
+        "address2": "Ste a - 202",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94133",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "39 Pier",
+          "Ste a - 202",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "phone": "+14159692010",
+      "display_phone": "(415) 969-2010",
+      "distance": 2620.14431265498
+    },
+    {
+      "id": "IRD_9JUjR-06zztisuTdAA",
+      "alias": "akikos-restaurant-san-francisco-3",
+      "name": "Akiko's Restaurant",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fuH2ZeMzBxNEcipEmUSZ-Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/akikos-restaurant-san-francisco-3?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 1975,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.790582,
+        "longitude": -122.404653
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "430 Folsom St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94105",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "430 Folsom St",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "phone": "+14153973218",
+      "display_phone": "(415) 397-3218",
+      "distance": 581.780209587754
+    },
+    {
+      "id": "hqQoVK0vadOX7_4gN1sh3g",
+      "alias": "saigon-sandwich-san-francisco",
+      "name": "Saigon Sandwich",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lE_HHijKAKt08JIeRHVh7w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/saigon-sandwich-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 3622,
+      "categories": [
+        {
+          "alias": "vietnamese",
+          "title": "Vietnamese"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.7831519576568,
+        "longitude": -122.417318022037
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "560 Larkin St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "560 Larkin St",
+          "San Francisco, CA 94102"
+        ]
+      },
+      "phone": "+14154745698",
+      "display_phone": "(415) 474-5698",
+      "distance": 1579.7691282213732
+    },
+    {
+      "id": "wGl_DyNxSv8KUtYgiuLhmA",
+      "alias": "bi-rite-creamery-san-francisco",
+      "name": "Bi-Rite Creamery",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZFLw9lTtUH3R67b4pvb3tg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bi-rite-creamery-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 10012,
+      "categories": [
+        {
+          "alias": "icecream",
+          "title": "Ice Cream & Frozen Yogurt"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.761591,
+        "longitude": -122.425717
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3692 18th St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3692 18th St",
+          "San Francisco, CA 94110"
+        ]
+      },
+      "phone": "+14156265600",
+      "display_phone": "(415) 626-5600",
+      "distance": 3609.538601947716
+    },
+    {
+      "id": "WavvLdfdP6g8aZTtbBQHTw",
+      "alias": "gary-danko-san-francisco",
+      "name": "Gary Danko",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eyYUz3Xl7NtcJeN7x7SQwg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/gary-danko-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 5807,
+      "categories": [
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        },
+        {
+          "alias": "french",
+          "title": "French"
+        },
+        {
+          "alias": "wine_bars",
+          "title": "Wine Bars"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.80587,
+        "longitude": -122.42058
+      },
+      "transactions": [],
+      "location": {
+        "address1": "800 N Point St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "800 N Point St",
+          "San Francisco, CA 94109"
+        ]
+      },
+      "phone": "+14157492060",
+      "display_phone": "(415) 749-2060",
+      "distance": 2782.049423726555
+    },
+    {
+      "id": "WxxE5kE8omgQhJE8sWIvmA",
+      "alias": "tadich-grill-san-francisco",
+      "name": "Tadich Grill",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GFOqwmtTpn26QtPXPaunSA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tadich-grill-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 2664,
+      "categories": [
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "venues",
+          "title": "Venues & Event Spaces"
+        },
+        {
+          "alias": "wine_bars",
+          "title": "Wine Bars"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.793431560349,
+        "longitude": -122.399468217791
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "240 California St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94111",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "240 California St",
+          "San Francisco, CA 94111"
+        ]
+      },
+      "phone": "+14153911849",
+      "display_phone": "(415) 391-1849",
+      "distance": 729.6212866514288
+    },
+    {
+      "id": "VdxJdMX53XZYNZvZlr96HA",
+      "alias": "laotable-san-francisco",
+      "name": "LaoTable",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5UkRKNTOogI0zLo2kqActA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/laotable-san-francisco?adjust_creative=9Mekvlml2Qc0mGZJdtNm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9Mekvlml2Qc0mGZJdtNm1Q",
+      "review_count": 1390,
+      "categories": [
+        {
+          "alias": "laotian",
+          "title": "Laotian"
+        },
+        {
+          "alias": "thai",
+          "title": "Thai"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.7875137329102,
+        "longitude": -122.398719787598
+      },
+      "transactions": [
+        "pickup",
+        "delivery",
+        "restaurant_reservation"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "149 2nd St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94105",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "149 2nd St",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "phone": "+14152789991",
+      "display_phone": "(415) 278-9991",
+      "distance": 130.69646407552702
+    }
+  ],
+  "total": 40,
+  "region": {
+    "center": {
+      "longitude": -122.399972,
+      "latitude": 37.786882
+    }
+  }
+}
